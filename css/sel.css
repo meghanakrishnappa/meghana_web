@@ -1,0 +1,36 @@
+h1 {
+    font-family: 'Lucida Handwriting';
+    font-size: 50pt;color:Red;
+}
+div {
+    font-size:2opx;
+    color:red;
+}
+.nav{
+    list-style-type:none;
+    margin:0;
+    background-color:brown;
+}
+li{
+    padding:10px;
+    color:green;
+}
+body{
+    margin:0;
+}
+div p{
+     color:red;
+   }
+   div>p{
+     color:blue;
+   }
+ div>p{
+       color:aqua;
+   }
+div+p{
+    color:coral;
+
+}
+div~{
+    color:blue;
+} 

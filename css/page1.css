@@ -1,0 +1,39 @@
+.head-title{
+	text-align:center;
+	text-transform:capitalize;
+	letter-spacing:2px;
+	font-size:100px;
+	margin-top:100px;
+color:red;
+}
+.container header{
+	height:200px;
+	width:50%;
+	background-color:darkblue;
+	position:relative;
+	margin-left:300px;
+
+}
+.corner{
+	text-align:center;
+}
+.container{
+	
+	margin:0 auto;
+}
+.selection-title{
+	text-transform:capitalize;
+	color:white;
+	text-align:center;
+	padding:100px;
+	
+}
+.material-icons{
+	position:absolute;
+	top:0;
+	right:10px;
+	font-size:50px;
+	color:white;
+	margin-top:10px;
+	margin-right:20px;
+}
